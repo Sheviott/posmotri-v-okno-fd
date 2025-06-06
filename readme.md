@@ -3,3 +3,5 @@
 ## Что это за проект? 
 
 Проект *Посмотри в окно* - позволяет посмотреть любому пользователю в окно разных городов!
+
+[Ссылка на репозиторий: https://github.com/Sheviott/posmotri-v-okno-fd](https://github.com/Sheviott/posmotri-v-okno-fd)
